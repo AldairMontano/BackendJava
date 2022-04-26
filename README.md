@@ -9,5 +9,7 @@ Katas
 
 
 [Practica Mona](https://github.com/AldairMontano/BackendJava/tree/master/src/PracticaMona)
+<br>
 ![image text](https://github.com/AldairMontano/BackendJava/blob/master/src/PracticaMona/Diagrama.png)
+
 ![image text](https://github.com/AldairMontano/BackendJava/blob/master/src/PracticaMona/Programa.png)
